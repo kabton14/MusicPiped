@@ -33,7 +33,7 @@ dependencies:
   package_info: ^0.4.0+3
   flutter_exoplayer:
     git:
-      url: git://github.com/deep-gaurav/flutter_exoplayer.git
+      url: git@github.com:deep-gaurav/flutter_exoplayer.git
 dev_dependencies:
   flutter_test:
     sdk: flutter
