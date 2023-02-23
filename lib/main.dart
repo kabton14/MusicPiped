@@ -1,7 +1,6 @@
 import 'dart:async';
 import 'dart:math' as math;
 import 'dart:typed_data';
-import 'dart:ui';
 // import 'package:audio_service/audio_service.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/services.dart';
@@ -15,7 +14,6 @@ import 'package:package_info/package_info.dart';
 import 'package:pedantic/pedantic.dart';
 import 'dart:io';
 
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
@@ -35,8 +33,6 @@ import 'artists.dart';
 import 'library.dart';
 import 'playerService.dart';
 import 'playerScreen.dart';
-
-import 'package:flutter/foundation.dart';
 
 var idbFactory;
 
