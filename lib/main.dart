@@ -475,7 +475,7 @@ class MyHomePageState extends State<MyHomePage>
       playCurrent();
     }
   }
-
+//
   void updateMetadata() async {
 //    player.pause();
 //    playerState.value = PlayerState.Loading;
